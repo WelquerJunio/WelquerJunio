@@ -5,7 +5,7 @@
 <!-- 🔭 I am currently working with desktop software development, Web and API's
 - 🌱 I am currently learning web software development, both frontend and backend. Using technologies as a Java, Javascript, SpringBoot, NodeJs, React, among other technologies-->
 - Acting as Software Quality Assurance, planning, evaluating and running vulnerability tests, usability for verification and validation of systems in desktop, web and mobile environments
--🎓 Graduate in Systems Analysis and Development
+- Graduate in Systems Analysis and Development
 - Specialist in Computer Forensics working in the preparation of questions, preparation of report and technical opinion in cases such as: restoration of files, digital images, systems breach, fraud and combating child pornography
 - Member of the National Association of Data Privacy Professionals (ANPPD)
 
