@@ -20,7 +20,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
- <img align="center" alt="CSS" height="30" width="40" src="https://camo.githubusercontent.com/30ae02763443aeedabaf2164a4f75065d3cafb9caf03fd8e8c073aa2cbde1879/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d526f626f745f4672616d65776f726b2d2532333030633062363f7374796c653d666f722d7468652d6261646765266c6f676f3d726f626f746672616d65776f726b266c6f676f436f6c6f723d666666666666">    
+ <img align="center" alt="CSS" height="30" width="90" src="https://camo.githubusercontent.com/30ae02763443aeedabaf2164a4f75065d3cafb9caf03fd8e8c073aa2cbde1879/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d526f626f745f4672616d65776f726b2d2532333030633062363f7374796c653d666f722d7468652d6261646765266c6f676f3d726f626f746672616d65776f726b266c6f676f436f6c6f723d666666666666">    
  
   <!--<img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">-->
 </div>
